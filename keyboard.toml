@@ -4,7 +4,7 @@ product_name = "Alice73"
 vendor_id = 0x4c4b
 product_id = 0x4643
 manufacturer = "TRH"
-board = "pi_pico_w"
+chip = "rp2040"
 
 [matrix]
 # Input and output pins are mandatory
