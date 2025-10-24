@@ -35,5 +35,5 @@ keymap = [
 [storage]
 # Storage feature is enabled by default
 enabled = true
-num_sectors = 32
+num_sectors = 32 
 
